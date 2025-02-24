@@ -1,0 +1,20 @@
+{
+  "name": "o2b2-certificate-authorities-market-share",
+  "version": "1.0.0",
+  "description": "Estimates the market share of certificate authorities of Open Finance Brasil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranierimazili/o2b2-certificate-authorities-market-share.git"
+  },
+  "author": "Ranieri Mazili",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ranierimazili/o2b2-certificate-authorities-market-share/issues"
+  },
+  "homepage": "https://github.com/ranierimazili/o2b2-certificate-authorities-market-share#readme",
+  "type": "module"
+}
