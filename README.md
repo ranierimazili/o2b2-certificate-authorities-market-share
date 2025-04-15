@@ -9,7 +9,7 @@ Estimates the market share of certificate authorities of Open Finance Brasil
 ## Most recent results
 
 Results in 15/04/2025
-```json
+```
 mTLS protected endpoints results: 
 {
   total: 133,
